@@ -1,0 +1,19 @@
+body{
+    background:rgb(233, 118, 118);
+    margin-left: 31px;
+}
+
+header{
+    margin-top: 50px;
+}
+
+h1{color: red; font-family: fantasy;
+}
+
+h2{font-family: fantasy;}
+
+p{font-size: 18px;}
+
+img{margin-block-start: 0px;}
+
+footer{margin-bottom: 100px;}
